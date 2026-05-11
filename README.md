@@ -1,6 +1,7 @@
-<p align="center">
+<!-- <p align="center">
   <img src="assets/prompt-baker-logo.png" alt="prompt-baker" width="480">
-</p>
+</p> -->
+![prompt-baker](assets/prompt-baker-logo.png)
 
 # prompt-baker
 
