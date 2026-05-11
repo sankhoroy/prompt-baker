@@ -1,0 +1,17 @@
+input,target
+"I loved the movie and its soundtrack.",positive
+"The food was cold and tasteless.",negative
+"Amazing product quality and fast delivery.",positive
+"I regret buying this, total waste of money.",negative
+"Support team was very helpful and polite.",positive
+"This app crashes every time I open it.",negative
+"The book was inspiring and beautifully written.",positive
+"The room was dirty and smelled bad.",negative
+"Great experience overall, would recommend.",positive
+"Terrible customer service and rude behavior.",negative
+"Things are broken and amenities are not working. Their service is such that we should declare award for that.",negative
+"Wow, this app actually works today. Miracles do happen.",positive
+"Oh great, the delivery arrived on time. What an unexpected achievement.",positive
+"This laptop battery lasts forever… if forever means two hours.",negative
+"Yeah, because waiting two hours for support is exactly how I wanted to spend my day.",negative
+"The internet speed is incredible — webpages load before next week.",positive

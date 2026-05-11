@@ -1,0 +1,70 @@
+[build-system]
+requires = ["hatchling>=1.27.0"]
+build-backend = "hatchling.build"
+
+[project]
+name = "prompt-baker"
+version = "0.1.0"
+description = "Genetic optimization for prompt and model combinations on CSV benchmarks."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [
+  { name = "Your Name", email = "you@example.com" }
+]
+keywords = [
+  "prompt-engineering",
+  "prompt-optimization",
+  "llm",
+  "genetic-algorithm",
+  "machine-learning",
+  "classification",
+  "rag",
+]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Intended Audience :: Developers",
+  "Intended Audience :: Science/Research",
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3 :: Only",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+dependencies = [
+  "pandas>=2.2.0",
+  "numpy>=1.26.0",
+  "scikit-learn>=1.5.0",
+  "matplotlib>=3.9.0",
+  "rouge-score>=0.1.2",
+  "tqdm>=4.66.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/your-username/prompt-baker"
+Repository = "https://github.com/your-username/prompt-baker"
+Issues = "https://github.com/your-username/prompt-baker/issues"
+
+[project.scripts]
+prompt-baker = "prompt_baker.cli:main"
+
+[tool.uv]
+dev-dependencies = [
+  "pytest>=8.0.0",
+  "ruff>=0.6.0",
+  "build>=1.2.1",
+  "twine>=5.1.1",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP"]

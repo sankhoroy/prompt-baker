@@ -1,0 +1,39 @@
+DOG: Labrador Retriever
+Color: Golden
+Traits: Friendly, intelligent, family dog.
+
+DOG: German Shepherd
+Color: Black and tan
+Traits: Loyal, protective, police dog.
+
+DOG: Siberian Husky
+Color: Grey and white
+Traits: Energetic, wolf-like appearance.
+
+DOG: Poodle
+Color: White
+Traits: Smart, curly fur.
+
+DOG: Beagle
+Color: Brown, black, white
+Traits: Small hunting dog.
+
+CAT: Persian Cat
+Color: White
+Traits: Long fur, calm temperament.
+
+CAT: Russian Blue
+Color: Grey
+Traits: Quiet, intelligent, short-haired.
+
+CAT: Siamese Cat
+Color: Cream with dark brown points
+Traits: Vocal, social.
+
+CAT: Bengal Cat
+Color: Orange with black spots
+Traits: Wild appearance, energetic.
+
+CAT: Maine Coon
+Color: Brown tabby
+Traits: Large size, fluffy fur.

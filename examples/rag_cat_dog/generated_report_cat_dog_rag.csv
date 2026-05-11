@@ -1,0 +1,335 @@
+timestamp,generation,candidate_idx,score,base_score,final_score,model_name,system_prompt,user_prompt,system_original_prompt,system_paraphrased_prompt,user_original_prompt,user_paraphrased_prompt
+2026-05-11T15:07:56.480795+00:00,4,1,8.9975375,9.0,8.9975375,mmr_k4,"Answer based on retrieved evidence.
+
+Original prompt:
+Use retrieved evidence before answering.","REWRITTEN PROMPT:
+Please respond to the following question: {input}
+
+Original prompt:
+Question:
+{input}",Use retrieved evidence before answering.,"Answer based on retrieved evidence.
+
+Original prompt:
+Use retrieved evidence before answering.","Question:
+{input}","REWRITTEN PROMPT:
+Please respond to the following question: {input}
+
+Original prompt:
+Question:
+{input}"
+2026-05-11T15:03:12.886140+00:00,2,0,8.9975375,9.0,8.9975375,mmr_k4,"Answer based on retrieved evidence.
+
+Original prompt:
+Use retrieved evidence before answering.","REWRITTEN PROMPT:
+Please respond to the following question: {input}
+
+Original prompt:
+Question:
+{input}",Use retrieved evidence before answering.,"Answer based on retrieved evidence.
+
+Original prompt:
+Use retrieved evidence before answering.","Question:
+{input}","REWRITTEN PROMPT:
+Please respond to the following question: {input}
+
+Original prompt:
+Question:
+{input}"
+2026-05-11T15:07:25.355119+00:00,4,0,8.830870833333334,8.833333333333334,8.830870833333334,mmr_k4,"Answer based on retrieved evidence.
+
+Original prompt:
+Use retrieved evidence before answering.","REWRITTEN PROMPT:
+Please respond to the following question: {input}
+
+Original prompt:
+Question:
+{input}",Use retrieved evidence before answering.,"Answer based on retrieved evidence.
+
+Original prompt:
+Use retrieved evidence before answering.","Question:
+{input}","REWRITTEN PROMPT:
+Please respond to the following question: {input}
+
+Original prompt:
+Question:
+{input}"
+2026-05-11T15:05:19.813997+00:00,3,0,8.830870833333334,8.833333333333334,8.830870833333334,mmr_k4,"Answer based on retrieved evidence.
+
+Original prompt:
+Use retrieved evidence before answering.","REWRITTEN PROMPT:
+Please respond to the following question: {input}
+
+Original prompt:
+Question:
+{input}",Use retrieved evidence before answering.,"Answer based on retrieved evidence.
+
+Original prompt:
+Use retrieved evidence before answering.","Question:
+{input}","REWRITTEN PROMPT:
+Please respond to the following question: {input}
+
+Original prompt:
+Question:
+{input}"
+2026-05-11T15:01:09.428919+00:00,1,0,8.830870833333334,8.833333333333334,8.830870833333334,mmr_k4,"Answer based on retrieved evidence.
+
+Original prompt:
+Use retrieved evidence before answering.","REWRITTEN PROMPT:
+Please respond to the following question: {input}
+
+Original prompt:
+Question:
+{input}",Use retrieved evidence before answering.,"Answer based on retrieved evidence.
+
+Original prompt:
+Use retrieved evidence before answering.","Question:
+{input}","REWRITTEN PROMPT:
+Please respond to the following question: {input}
+
+Original prompt:
+Question:
+{input}"
+2026-05-11T15:04:16.427766+00:00,2,2,8.664954166666666,8.666666666666666,8.664954166666666,mmr_k4,"Answer based on retrieved evidence.
+
+Original prompt:
+Use retrieved evidence before answering.","{input}
+
+Original prompt:
+Question:
+{input}",Use retrieved evidence before answering.,"Answer based on retrieved evidence.
+
+Original prompt:
+Use retrieved evidence before answering.","Question:
+{input}","{input}
+
+Original prompt:
+Question:
+{input}"
+2026-05-11T15:06:53.940267+00:00,3,3,8.664204166666666,8.666666666666666,8.664204166666666,mmr_k4,"Answer based on retrieved evidence.
+
+Original prompt:
+Use retrieved evidence before answering.","REWRITTEN PROMPT:
+Please respond to the following question: {input}
+
+Original prompt:
+Question:
+{input}",Use retrieved evidence before answering.,"Answer based on retrieved evidence.
+
+Original prompt:
+Use retrieved evidence before answering.","Question:
+{input}","REWRITTEN PROMPT:
+Please respond to the following question: {input}
+
+Original prompt:
+Question:
+{input}"
+2026-05-11T15:00:05.463242+00:00,0,2,8.664204166666666,8.666666666666666,8.664204166666666,mmr_k4,"Answer based on retrieved evidence.
+
+Original prompt:
+Use retrieved evidence before answering.","REWRITTEN PROMPT:
+Please respond to the following question: {input}
+
+Original prompt:
+Question:
+{input}",Use retrieved evidence before answering.,"Answer based on retrieved evidence.
+
+Original prompt:
+Use retrieved evidence before answering.","Question:
+{input}","REWRITTEN PROMPT:
+Please respond to the following question: {input}
+
+Original prompt:
+Question:
+{input}"
+2026-05-11T15:04:48.589176+00:00,2,3,8.580870833333334,8.583333333333334,8.580870833333334,mmr_k4,"Answer based on retrieved evidence.
+
+Original prompt:
+Use retrieved evidence before answering.","REWRITTEN PROMPT:
+Please respond to the following question: {input}
+
+Original prompt:
+Question:
+{input}",Use retrieved evidence before answering.,"Answer based on retrieved evidence.
+
+Original prompt:
+Use retrieved evidence before answering.","Question:
+{input}","REWRITTEN PROMPT:
+Please respond to the following question: {input}
+
+Original prompt:
+Question:
+{input}"
+2026-05-11T15:03:45.580313+00:00,2,1,8.4982875,8.5,8.4982875,mmr_k4,"Answer based on retrieved evidence.
+
+Original prompt:
+Use retrieved evidence before answering.","{input}
+
+Original prompt:
+Question:
+{input}",Use retrieved evidence before answering.,"Answer based on retrieved evidence.
+
+Original prompt:
+Use retrieved evidence before answering.","Question:
+{input}","{input}
+
+Original prompt:
+Question:
+{input}"
+2026-05-11T15:02:41.701996+00:00,1,3,8.4982875,8.5,8.4982875,mmr_k4,"Answer based on retrieved evidence.
+
+Original prompt:
+Use retrieved evidence before answering.","{input}
+
+Original prompt:
+Question:
+{input}",Use retrieved evidence before answering.,"Answer based on retrieved evidence.
+
+Original prompt:
+Use retrieved evidence before answering.","Question:
+{input}","{input}
+
+Original prompt:
+Question:
+{input}"
+2026-05-11T15:05:51.860853+00:00,3,1,8.414954166666666,8.416666666666666,8.414954166666666,mmr_k4,"Answer based on retrieved evidence.
+
+Original prompt:
+Use retrieved evidence before answering.","{input}
+
+Original prompt:
+Question:
+{input}",Use retrieved evidence before answering.,"Answer based on retrieved evidence.
+
+Original prompt:
+Use retrieved evidence before answering.","Question:
+{input}","{input}
+
+Original prompt:
+Question:
+{input}"
+2026-05-11T15:09:00.618878+00:00,4,3,8.330870833333334,8.333333333333334,8.330870833333334,mmr_k4,"Answer based on retrieved evidence.
+
+Original prompt:
+Use retrieved evidence before answering.","REWRITTEN PROMPT:
+Please respond to the following question: {input}
+
+Original prompt:
+Question:
+{input}",Use retrieved evidence before answering.,"Answer based on retrieved evidence.
+
+Original prompt:
+Use retrieved evidence before answering.","Question:
+{input}","REWRITTEN PROMPT:
+Please respond to the following question: {input}
+
+Original prompt:
+Question:
+{input}"
+2026-05-11T15:02:10.600443+00:00,1,2,8.165304166666665,8.166666666666666,8.165304166666665,mmr_k4,"Answer briefly.
+
+Original prompt:
+Provide concise factual answers.","{input}
+
+Original prompt:
+Question:
+{input}",Provide concise factual answers.,"Answer briefly.
+
+Original prompt:
+Provide concise factual answers.","Question:
+{input}","{input}
+
+Original prompt:
+Question:
+{input}"
+2026-05-11T15:08:28.458547+00:00,4,2,7.164204166666667,7.166666666666667,7.164204166666667,similarity_k1,"Answer based on retrieved evidence.
+
+Original prompt:
+Use retrieved evidence before answering.","REWRITTEN PROMPT:
+Please respond to the following question: {input}
+
+Original prompt:
+Question:
+{input}",Use retrieved evidence before answering.,"Answer based on retrieved evidence.
+
+Original prompt:
+Use retrieved evidence before answering.","Question:
+{input}","REWRITTEN PROMPT:
+Please respond to the following question: {input}
+
+Original prompt:
+Question:
+{input}"
+2026-05-11T15:00:37.763501+00:00,0,3,6.915304166666667,6.916666666666667,6.915304166666667,mmr_k4,"Answer briefly.
+
+Original prompt:
+Provide concise factual answers.","{input}
+
+Original prompt:
+Question:
+{input}",Provide concise factual answers.,"Answer briefly.
+
+Original prompt:
+Provide concise factual answers.","Question:
+{input}","{input}
+
+Original prompt:
+Question:
+{input}"
+2026-05-11T15:01:40.047478+00:00,1,1,5.665304166666667,5.666666666666667,5.665304166666667,mmr_k4,"Answer briefly.
+
+Original prompt:
+Provide concise factual answers.","{input}
+
+Original prompt:
+Question:
+{input}",Provide concise factual answers.,"Answer briefly.
+
+Original prompt:
+Provide concise factual answers.","Question:
+{input}","{input}
+
+Original prompt:
+Question:
+{input}"
+2026-05-11T15:06:23.020821+00:00,3,2,4.9986125,5.0,4.9986125,mmr_k4,"Do not hallucinate.
+
+Original prompt:
+Never hallucinate information.","{input}
+
+Original prompt:
+Question:
+{input}",Never hallucinate information.,"Do not hallucinate.
+
+Original prompt:
+Never hallucinate information.","Question:
+{input}","{input}
+
+Original prompt:
+Question:
+{input}"
+2026-05-11T14:59:42.400718+00:00,0,0,4.9957375,5.0,4.9957375,mmr_k4,"Do not hallucinate.
+
+Original prompt:
+Never hallucinate information.","Given the provided input, utilize the context to generate a response that accurately addresses the task, ensuring that the answer is relevant, informative, and directly related to the information contained within the input.
+
+Original prompt:
+Use context and answer:
+{input}",Never hallucinate information.,"Do not hallucinate.
+
+Original prompt:
+Never hallucinate information.","Use context and answer:
+{input}","Given the provided input, utilize the context to generate a response that accurately addresses the task, ensuring that the answer is relevant, informative, and directly related to the information contained within the input.
+
+Original prompt:
+Use context and answer:
+{input}"
+2026-05-11T14:59:47.142066+00:00,0,1,2.99695,3.0,2.99695,similarity_k1,"Respond solely based on the provided context, without incorporating any external information or knowledge, and adhere to the specified format and requirements.
+
+Original prompt:
+Answer only from retrieved context.","Use context and answer:
+{input}",Answer only from retrieved context.,"Respond solely based on the provided context, without incorporating any external information or knowledge, and adhere to the specified format and requirements.
+
+Original prompt:
+Answer only from retrieved context.","Use context and answer:
+{input}","Use context and answer:
+{input}"
