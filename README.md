@@ -1,5 +1,6 @@
 <!-- <img src="logo.png" style="max-width:100%; height:auto;" width="200"> -->
-![prompt-baker](assets/prompt-baker-logo-2.png)
+<!-- ![prompt-baker](assets/prompt-baker-logo-2.png) -->
+<img src="assets/prompt-baker-logo.png" alt="prompt-baker" width="220" height="220">
 
 # prompt-baker
 
