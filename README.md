@@ -7,6 +7,9 @@
 
 Whether you're building RAG pipelines, AI agents, tool-calling systems, classifiers, or generation apps, Prompt-Baker can evolve better prompts, optimize retriever strategies, tune inference settings, and improve agent behavior over time. It works with any chat completion function — APIs, local models, LangChain agents, heuristics, or custom pipelines — making it easy to optimize real-world AI systems automatically.
 
+## Tutorials
+🎥 Video tutorials: https://www.youtube.com/@prompt-baker
+and see examples below.
 
 ## Features
 
@@ -195,10 +198,10 @@ Or call `plot_progress` / `create_scores_csv` from `prompt_baker.visualizer` in 
 
 Two worked examples live under `examples/`:
 
-| Example | Directory | Summary |
-|--------|-----------|---------|
-| Sentiment classification | `examples/sentiment/` | CSV benchmark, genetic search over prompts and backends, optional Groq agent |
-| Cat–dog RAG | `examples/rag_cat_dog/` | Chroma retrieval, multiple retriever strategies, LLM-as-judge |
+| Example | Directory | Notebook | Summary |
+|--------|-----------|----------|---------|
+| Sentiment classification | `examples/sentiment/` | [sentiment_classification.ipynb](https://github.com/sankhoroy/prompt-baker/blob/main/examples/sentiment/sentiment_classification.ipynb) | CSV benchmark, genetic search over prompts and backends, optional Groq agent |
+| Cat–dog RAG | `examples/rag_cat_dog/` | [cat_dog_rag.ipynb](https://github.com/sankhoroy/prompt-baker/blob/main/examples/rag_cat_dog/cat_dog_rag.ipynb) | Chroma retrieval, multiple retriever strategies, LLM-as-judge |
 
 See **[examples/README.md](examples/README.md)** for paths, extra dependencies, and how to run each script or notebook.
 
