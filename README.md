@@ -1,11 +1,12 @@
-<!-- <p align="center">
-  <img src="assets/prompt-baker-logo.png" alt="prompt-baker" width="480">
-</p> -->
-![prompt-baker](assets/prompt-baker-logo.png)
+<!-- <img src="logo.png" style="max-width:100%; height:auto;" width="200"> -->
+![prompt-baker](assets/prompt-baker-logo-2.png)
 
 # prompt-baker
 
-Genetic optimization for **prompt + model** combinations on CSV benchmarks. You inject chat completion functions (any API, local model, LangChain agent, or heuristic), supply pools of system and user prompt templates, and search for high-scoring candidates using classification or generation metrics.
+**Prompt-Baker** helps you automatically discover the best prompt, model, and parameter combinations for your LLM workflows instead of manually testing endless variations. Just provide your task, evaluation dataset (like a CSV benchmark), and candidate prompts/models — Prompt-Baker experiments across combinations to find what actually performs best for your use case.
+
+Whether you're building RAG pipelines, AI agents, tool-calling systems, classifiers, or generation apps, Prompt-Baker can evolve better prompts, optimize retriever strategies, tune inference settings, and improve agent behavior over time. It works with any chat completion function — APIs, local models, LangChain agents, heuristics, or custom pipelines — making it easy to optimize real-world AI systems automatically.
+
 
 ## Features
 
