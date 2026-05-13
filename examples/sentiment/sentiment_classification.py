@@ -1,5 +1,16 @@
 # # Imports
 
+# =========================
+# Install dependencies
+# =========================
+
+# !pip install -q prompt-baker
+# !pip install -q langchain langgraph langchain-core langchain-groq
+# !pip install -q pandas matplotlib
+
+# # Optional but useful in Colab
+# !pip install -q python-dotenv
+
 from __future__ import annotations
 import os
 from pathlib import Path

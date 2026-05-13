@@ -6,6 +6,33 @@ and uses the PromptBaker library to optimize system/user prompts
 and retrieval strategies for a cat/dog related questions.
 """
 
+# =========================
+# Install dependencies
+# =========================
+
+# !pip install -q prompt-baker
+
+# # LangChain ecosystem
+# !pip install -q \
+#     langchain \
+#     langchain-core \
+#     langchain-text-splitters \
+#     langchain-community \
+#     langchain-groq \
+#     langchain-huggingface \
+#     langchain-chroma \
+#     chromadb
+
+# # Data + plotting
+# !pip install -q pandas matplotlib
+
+# # HuggingFace embeddings
+# !pip install -q sentence-transformers transformers
+
+# # Optional helpers
+# !pip install -q pypdf tiktoken
+
+
 import os
 import pandas as pd
 from pathlib import Path

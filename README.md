@@ -8,9 +8,14 @@
 
 Whether you're building RAG pipelines, AI agents, tool-calling systems, classifiers, or generation apps, Prompt-Baker can evolve better prompts, optimize retriever strategies, tune inference settings, and improve agent behavior over time. It works with any chat completion function — APIs, local models, LangChain agents, heuristics, or custom pipelines — making it easy to optimize real-world AI systems automatically.
 
+## Demo
+**Get best system_prompt, user_prompt and model cobmination to get `Sentiment Classification` from a golden(benchmark) dataset**: https://colab.research.google.com/drive/1NGbnGoMNiGiCqN9V_WhuFY64cdh2KZJ6?usp=sharing
+
+**Get best system prompt, user prompt, retriver k of RAG, llm model from combinations for `Cat–dog RAG`** : https://colab.research.google.com/drive/1CERUoTUw972n9S5e23lkUNh9rhvIQ55H?usp=sharing
+
 ## Tutorials
-🎥 Video tutorials: https://www.youtube.com/@prompt-baker
-and see examples below.
+Video tutorials: https://www.youtube.com/@prompt-baker
+
 
 ## Features
 
