@@ -6,6 +6,8 @@
 
 **Prompt-Baker** helps you automatically discover the best prompt, model, and parameter combinations for your LLM workflows instead of manually testing endless variations. Just provide your task, evaluation dataset (like a CSV benchmark), and candidate prompts/models — Prompt-Baker experiments across combinations to find what actually performs best for your use case.
 
+# What `prompt-baker` does?
+![prompt-baker](assets/what-prompt-baker-does.png)
 Whether you're building RAG pipelines, AI agents, tool-calling systems, classifiers, or generation apps, Prompt-Baker can evolve better prompts, optimize retriever strategies, tune inference settings, and improve agent behavior over time. It works with any chat completion function — APIs, local models, LangChain agents, heuristics, or custom pipelines — making it easy to optimize real-world AI systems automatically.
 
 ## Demo
